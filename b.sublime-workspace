@@ -1,0 +1,884 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"colr",
+				"color-header-font"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bubble",
+				"bubbletea"
+			],
+			[
+				"color-header",
+				"color-header-bg"
+			],
+			[
+				"font-",
+				"font-cursive"
+			],
+			[
+				"color",
+				"color-secondary"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ng-repeat",
+				"ng-repeat-end	AngularJS"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"de",
+				"detail-color"
+			],
+			[
+				"color-",
+				"color-secondary"
+			],
+			[
+				"co",
+				"color-contrast"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ele",
+				"eligibleCoupon"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"col",
+				"color-main"
+			],
+			[
+				"categor",
+				"categoryNames"
+			],
+			[
+				"vege",
+				"isVegetarian"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"ng-mo",
+				"ng-model	AngularJS"
+			],
+			[
+				"item",
+				"itemDetail"
+			],
+			[
+				"foo",
+				"foodMenuService"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"scroll",
+				"scrollEvent"
+			],
+			[
+				"angua",
+				"angular"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ac",
+				"$scope.activeColumn"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"act",
+				"$scope.activeColumn"
+			],
+			[
+				"ng-mou",
+				"ng-mouseover	AngularJS"
+			],
+			[
+				"active",
+				"$scope.activeColumn"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border-lef",
+				"border-top-left-radius"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-th",
+				"border-width"
+			],
+			[
+				"b",
+				"border-right"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"photo",
+				"photoCrossControl"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 26491,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10812,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 3790,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Mongoose/bella/css/style-desktop.css",
+		"/D/Mongoose/bella/index.html",
+		"/D/Mongoose/bella/stories.html",
+		"/D/Mongoose/bella/contact.html",
+		"/D/Mongoose/bella/css/style.css",
+		"/D/Mongoose/foodorder/css/partials/_page.scss",
+		"/D/Mongoose/foodorder/css/modules/_fonts.scss",
+		"/D/Mongoose/foodorder/css/partials/_header.scss",
+		"/D/Mongoose/foodorder/modules/main.js",
+		"/D/Mongoose/foodorder/partials/gallery.html",
+		"/D/Mongoose/foodorder/partials/info.html",
+		"/D/Mongoose/foodorder/partials/menu.html",
+		"/D/Mongoose/foodorder/index.html",
+		"/D/Mongoose/foodorder/partials/home.html",
+		"/D/Mongoose/foodorder/css/main.scss",
+		"/D/Mongoose/foodorder/css/partials/_checkout.scss",
+		"/D/Mongoose/foodorder/css/partials/_shop.scss",
+		"/D/Mongoose/foodorder/partials/shop.checkout.html",
+		"/D/Mongoose/foodorder/partials/shop.html",
+		"/D/Mongoose/foodorder/css/partials/_home.scss",
+		"/D/Mongoose/foodorder/css/main.css",
+		"/D/Mongoose/foodorder/css/modules/_all.scss",
+		"/D/Mongoose/foodorder/css/partials/_icons.scss",
+		"/D/Mongoose/foodorder/css/partials/_category.scss",
+		"/D/Mongoose/foodorder/css/partials/_menuItem.scss",
+		"/D/Mongoose/foodorder/css/partials/_order.scss",
+		"/D/Mongoose/foodorder/css/modules/_symbols.scss",
+		"/D/Mongoose/foodorder/modules/templates/menuItem.html",
+		"/C/Users/wesley/Desktop/1.html",
+		"/D/github/recursion/src/stringifyJSON.js",
+		"/D/Mongoose/foodorder/css/modules/_icons.scss",
+		"/D/Mongoose/foodorder/modules/templates/itemOrder.html",
+		"/D/Mongoose/foodorder/modules/shopData.js",
+		"/D/Mongoose/foodorder/modules/shopClasses.js",
+		"/D/Mongoose/foodorder/assets/icons/logic/expand.svg",
+		"/D/Mongoose/foodorder/assets/icons/logic/add.svg",
+		"/D/Mongoose/foodorder/assets/icons/logic/remove.svg",
+		"/D/Mongoose/foodorder/assets/icons/logic/remove2.svg",
+		"/D/Mongoose/foodorder/modules/shop.js",
+		"/D/Mongoose/foodorder/partials/shop.category.html",
+		"/D/Mongoose/foodorder/modules/menuElements.js",
+		"/D/Mongoose/foodorder/partials/shop.menu.html",
+		"/D/Mongoose/foodorder/modules/templates/allergyList.html",
+		"/D/Mongoose/foodorder/assets/icons/beef.svg",
+		"/D/Mongoose/foodorder/assets/icons/pig.svg",
+		"/D/Mongoose/foodorder/assets/icons/Soulico_Agriculture_icons.eps",
+		"/D/Mongoose/foodorder/menuRaw.js",
+		"/D/Mongoose/foodorder/partials/shop.review.html",
+		"/D/Mongoose/foodorder/modules/templates/shop.html",
+		"/D/Mongoose/foodorder/modules/classes.js",
+		"/D/Mongoose/foodorder/modules/shopContent.js",
+		"/D/Mongoose/foodorder/partials/shop.cart.html",
+		"/D/Mongoose/foodorder/partials/shop.browse.html",
+		"/D/Mongoose/foodorder/partials/shop.browse.category.html",
+		"/D/Mongoose/foodorder/partials/shop.browse.menu.html",
+		"/D/Mongoose/foodorder/partials/shop.cart.review.html",
+		"/D/Mongoose/foodorder/partials/shop.cart.checkout.html",
+		"/D/Mongoose/foodorder/menu.js",
+		"/D/Mongoose/foodorder/menu.min.json",
+		"/D/Mongoose/foodorder/assets/icons/a.svg",
+		"/D/Mongoose/foodorder/assets/menu.html",
+		"/D/DL-Chrome/menu.html",
+		"/D/Mongoose/foodorder/css/partials/_fonts.scss",
+		"/D/Mongoose/foodorder/lib/font-awesome-4.0.3/css/font-awesome.css",
+		"/D/library/font-awesome-4.0.3/css/font-awesome.css",
+		"/D/library/font-awesome-4.0.3/scss/font-awesome.scss",
+		"/D/library/font-awesome-4.0.3/scss/_mixins.scss",
+		"/D/Sublime Text Build 3059 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text Build 3059 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Mongoose/foodorder/css/modules/_responsive.scss",
+		"/D/Mongoose/foodorder/css/partials/category.scss",
+		"/D/Mongoose/foodorder/modules/food.js",
+		"/D/Mongoose/foodorder/views/home.html",
+		"/D/Mongoose/foodorder/css/modules/_allergy.scss",
+		"/D/Mongoose/foodorder/views/shop.html",
+		"/D/Mongoose/foodorder/css/modules/_checkout.scss",
+		"/D/Mongoose/foodorder/modules/templates/menuFilter.hmtl",
+		"/D/Mongoose/foodorder/modules/templates/checkout.html",
+		"/D/Mongoose/foodorder/modules/templates/review.html",
+		"/D/Mongoose/foodorder/css/modules/_menuItem.scss",
+		"/D/Mongoose/foodorder/restaurant.js",
+		"/D/menu.csv",
+		"/D/Mongoose/foodorder/menu.html",
+		"/D/Mongoose/foodorder/assets/icons/vege.svg",
+		"/D/DL-Chrome/SVG-Export-2014-1-2-1-18.svg",
+		"/D/DL-Chrome/SVG-Export-2014-1-2-1-45.svg",
+		"//uc1.nodecluster.net@SSL@2078/DavWWWRoot/www/foodorder/modules/shop.js",
+		"/D/Mongoose/foodorder/views/cart.html",
+		"/D/github/underbar/src/underbar.js",
+		"/D/Mongoose/foodorder/modules/cart.js",
+		"/D/Mongoose/foodorder/css/partials/_cart.scss",
+		"/D/Mongoose/huang/modules/dropMenu/dropMenu.js",
+		"/D/Mongoose/foodorder/mainMenu/mainMenu.html",
+		"/D/Mongoose/foodorder/modules/templates/cart.html",
+		"/D/Mongoose/foodorder/css/modules/_allergyList.scss",
+		"/D/Mongoose/foodorder/modules/order/allergyList.html",
+		"/D/Mongoose/foodorder/modules/menuItem.js",
+		"/D/Mongoose/foodorder/modules/order/menuItem.html",
+		"/D/Mongoose/foodorder/modules/order.js",
+		"/D/Mongoose/foodorder/css/modules/_animation.scss",
+		"/D/Mongoose/foodorder/css/partials/menuItem.scss",
+		"/D/github/twittler/js/board.js",
+		"/D/github/twittler/lib/data_generator.js",
+		"/D/github/twittler/js/sender.js",
+		"/D/github/twittler/js/main.js",
+		"/D/github/twittler/css/tabs.css",
+		"/D/github/twittler/css/tweet.css",
+		"/D/Mongoose/huang/modules/dropMenu/dropMenuItem.html",
+		"/D/Mongoose/huang/css/partials/drop-menu.scss",
+		"/D/Mongoose/huang/css/dropMenu.css",
+		"/D/Mongoose/huang/css/animation.css",
+		"/D/Mongoose/huang/index.html",
+		"/D/DL-Chrome/animate.css",
+		"/D/Mongoose/huang/huang.js",
+		"/D/Mongoose/huang/modules/gallery/gallery.html",
+		"/D/Mongoose/huang/css/photoCross.css",
+		"/D/Mongoose/huang/modules/dropMenu/dropMenuTitle.html",
+		"/D/Mongoose/huang/css/index.css",
+		"/D/Mongoose/huang/css/gallery.css",
+		"/D/Mongoose/huang/css/greeting.css",
+		"/D/Mongoose/huang/css/page.css",
+		"/D/Mongoose/huang/assets/icons/arrow-right.svg",
+		"/D/Mongoose/huang/assets/icons/arrow-left.svg",
+		"/D/Mongoose/huang/modules/gallery/galleryViewer.html",
+		"/D/Mongoose/huang/modules/gallery/gallery.js",
+		"//uc1.nodecluster.net@SSL@2078/DavWWWRoot/www/huang/modules/gallery/gallery.js",
+		"/D/Mongoose/huang/partials/home.html",
+		"/D/Mongoose/huang/partials/gallery.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"\\\\uc1.nodecluster.net@SSL@2078\\DavWWWRoot\\www\\huang\\modules",
+			"\\\\uc1.nodecluster.net@SSL@2078\\DavWWWRoot\\www\\huang\\modules\\dropMenu"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".button.big",
+			"href",
+			"banner",
+			"7u",
+			"font-family: \"Courgette\"",
+			"Courgette",
+			"border",
+			"puls",
+			"#000000",
+			"$font-color",
+			"$item-width",
+			"'",
+			"$nav-highlight",
+			"$nav-bg",
+			"$header-color",
+			"$detail-color",
+			"collapseAll",
+			"$scope.contentService",
+			"shopService",
+			"this.activeCoupons",
+			"this.coupon",
+			"Order.prototype",
+			"collapseAll",
+			"$scope",
+			"shop",
+			"order",
+			"currentCategory",
+			"currentMode",
+			"categories",
+			"\\'",
+			"'",
+			"\\\\",
+			"'",
+			"\"",
+			"  ",
+			"$",
+			"!",
+			" ^",
+			"^ ",
+			"  ",
+			"^^",
+			"^^^",
+			"^^",
+			"^^^",
+			"!",
+			"$",
+			"'",
+			"$$",
+			".$",
+			".$$",
+			"$",
+			"$$",
+			" ^",
+			"^ ",
+			"  ",
+			"\"",
+			"!",
+			"$",
+			"^^",
+			"$$",
+			"$ $",
+			".$",
+			".$$",
+			"$$",
+			" ^",
+			"^",
+			" ^",
+			"^ ",
+			"$ ",
+			" $",
+			"$ ",
+			"$",
+			"  ",
+			" ! ",
+			"  ",
+			"   ",
+			"    ",
+			"  ",
+			" ",
+			"  ",
+			"Piece",
+			"  ",
+			" ",
+			"caret-down",
+			"caret",
+			"cursive",
+			"font-fam",
+			"media",
+			"collapseAll",
+			"$color-main",
+			"$content-color",
+			"'",
+			"collapseAll",
+			"allerg",
+			"</p></li>",
+			"88bb55",
+			"66dd66",
+			"336633",
+			"88ff88",
+			"#336633",
+			"#88ff88",
+			"##",
+			"4",
+			"scroll",
+			"picture",
+			"font-we",
+			"text-shadow",
+			"http://placekitten.com",
+			"\"dummy.icon\"",
+			"svg",
+			"width",
+			"/360\"",
+			"placekitten.com/48",
+			"home",
+			"css",
+			"word_separators"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$color-header-font",
+			"\\'",
+			"$color-detail-bg",
+			"$color-header-bg",
+			"$color-detail-bg",
+			"this",
+			"$scope.contentService",
+			"this.activeCoupon",
+			"this",
+			"this.",
+			"shopService",
+			"nav.category",
+			"nav.mode",
+			"\\\\'",
+			"\\'",
+			"\\",
+			"\\'",
+			" ",
+			"^",
+			" ",
+			"^",
+			" ",
+			"^^^",
+			"^",
+			" ",
+			"^",
+			" ",
+			"^",
+			"$$",
+			"^",
+			"$",
+			" % ",
+			" ",
+			"!",
+			" ",
+			"!",
+			" ",
+			"",
+			" ",
+			"pc",
+			" ",
+			"$nav-bg",
+			"$font-color",
+			"\"",
+			"",
+			"88bb55",
+			"66cc33",
+			"669933",
+			"66dd66",
+			"#336633",
+			"#",
+			"photo",
+			"http://placedog.com",
+			"http://flickholdr.com",
+			"\"assets/icons/bulb.svg\"",
+			"/300\"",
+			"placekitten.com/40"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25949,
+								25949
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9772,
+								9749
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4560.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1799,
+								1799
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "b.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
